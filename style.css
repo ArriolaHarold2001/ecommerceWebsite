@@ -562,7 +562,11 @@ input[type="email"] {
 /* 540PX */
 @media screen and (max-width: 34em) {
   html {
-    font-size: 37.5%;
+    font-size: 50%;
+  }
+
+  .featured-item p {
+    font-size: 1.2rem;
   }
   .nav-section_main {
     justify-content: center;
@@ -590,8 +594,8 @@ input[type="email"] {
     z-index: 9999;
     border: none;
     background-color: transparent;
-    width: 5rem;
-    top: 1rem;
+    width: 4rem;
+    top: 0.5rem;
     right: 4rem;
   }
 
