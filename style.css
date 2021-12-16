@@ -615,7 +615,7 @@ input[type="email"] {
   }
 
   .featured-section_main {
-    grid-template-columns: 200px;
+    grid-template-columns: 1fr;
     justify-content: center;
   }
 
@@ -624,7 +624,7 @@ input[type="email"] {
   }
 
   .featured-section_second {
-    grid-template-columns: 200px;
+    grid-template-columns: 1fr;
     justify-content: center;
   }
 
