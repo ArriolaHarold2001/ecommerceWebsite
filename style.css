@@ -348,6 +348,10 @@ dropbtn:focus {
 /* FORM STYLING */
 /* ************ */
 
+.contact-form {
+  width: 100%;
+}
+
 .form-item {
   display: flex;
   flex-direction: column;
@@ -638,5 +642,13 @@ input[type="email"] {
   }
   .shop-nav {
     grid-column: 1/1;
+  }
+
+  .form-item {
+    width: 100%;
+  }
+
+  .hero {
+    width: 100%;
   }
 }
