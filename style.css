@@ -562,9 +562,9 @@ input[type="email"] {
 }
 /* 540PX */
 @media screen and (max-width: 34em) {
-  html {
+  /* html {
     font-size: 50%;
-  }
+  } */
 
   h1 {
     font-size: 1.8rem;
@@ -611,7 +611,8 @@ input[type="email"] {
 
 @media screen and (min-width: 20em) {
   html {
-    font-size: 43.75%;
+    /* font-size: 43.75%; */
+    font-size: 56.25%;
   }
 
   .featured-section_main {
