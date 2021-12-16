@@ -343,7 +343,6 @@ dropbtn:focus {
 .hero-section_contact {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(10, 0, 0, 0.2)),
     url("img/people/reedy_adventures-7036.jpeg");
-  width: 100%;
 }
 
 /* FORM STYLING */
@@ -356,6 +355,7 @@ dropbtn:focus {
   gap: 2rem;
 
   height: 35vh;
+  width: 100%;
   padding: 6rem 6rem;
   font-size: 3.2rem;
   font-weight: 600;
